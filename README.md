@@ -7,4 +7,4 @@ A basic To-Do List web application built with HTML, CSS, and JavaScript. It allo
 *   **Simple and Intuitive Interface:** The application provides a clean and easy-to-use interface.
 
 
-## [ToDoList](https://github.com/vergarra/ToDoList/blob/main/To-DoList/image.png)
+## ![ToDoList](https://github.com/vergarra/ToDoList/blob/main/To-DoList/image.png)
